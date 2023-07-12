@@ -15,7 +15,7 @@ const config = {
 	},
 	paths: {
 		// base: '/suleimankrim.github.io/portfolio/'https://github.com/Hamza-Shafee-Aldaghstany/Asignmetsix6.git
-		base: '/Hamza-Shafee-Aldaghstany.github.io/Asignmetsix6/'
+		base: 'hamza-shafee-aldaghstany.github.io/Asignmetsix6/'
 	}
 };
 
