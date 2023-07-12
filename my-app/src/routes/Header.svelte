@@ -1,5 +1,6 @@
 <script>
 	import Navbar from '$lib/Navbar.svelte';
+	//dfdf
 </script>
 
 <!--<script>-->

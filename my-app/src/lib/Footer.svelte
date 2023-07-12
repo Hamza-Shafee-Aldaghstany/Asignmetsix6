@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-
+	//
 	let titlepar = '';
 	let datepar = '';
 	let image: HTMLImageElement;

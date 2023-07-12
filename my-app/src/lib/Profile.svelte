@@ -4,6 +4,7 @@
 	export let profileImage: string;
 	export let projects: Array<string>;
 	export let skills: Array<string>;
+	///
 	onMount(() => {
 		let typed = new Typed('.multi-text', {
 			strings: [' a coder', ' a developer'],

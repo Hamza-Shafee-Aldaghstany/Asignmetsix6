@@ -1,5 +1,7 @@
 <script lang="ts">
+	//dfdf
 	import Footer from '$lib/Footer.svelte';
+	//
 </script>
 
 <svelte:head>

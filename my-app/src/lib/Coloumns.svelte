@@ -1,7 +1,7 @@
 <script>
 	import Profile from './Profile.svelte';
 	import Footer from './Footer.svelte';
-
+	//
 	const projects = [
 		'Six months expe1rience of backend with spring-boot.',
 		'Learning react for front end development.',
