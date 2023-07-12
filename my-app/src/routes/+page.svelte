@@ -8,7 +8,7 @@
 </svelte:head>
 
 <section>
-<Coloumns />
+	<Coloumns />
 </section>
 
 <style>
@@ -20,15 +20,15 @@
 		flex: 0.6;
 	}
 
-	h1 {
-		width: 100%;
-	}
+	/*h1 {*/
+	/*	width: 100%;*/
+	/*}*/
 
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
+	/*.welcome img {*/
+	/*	position: absolute;*/
+	/*	width: 100%;*/
+	/*	height: 100%;*/
+	/*	top: 0;*/
+	/*	display: block;*/
+	/*}*/
 </style>

@@ -6,22 +6,22 @@
 		<!--    <li><a href="#">      </a></li>-->
 	</ul>
 	<div class="Contacts">
-		<a href="#" class="facbookIconAn">
+		<a href="https://www.facebook.com/" class="facbookIconAn">
 			<div class="facbookIconsContainer">
 				<img src="/img/icons/facebook-svgrepo-com.svg" class="facbookIcon" alt="fb" />
 			</div>
 		</a>
-		<a href="#" class="LinkedIniconAn">
+		<a href="https://www.facebook.com/" class="LinkedIniconAn">
 			<div class="LinkedInIconContainer">
 				<img src="/img/icons/linkedin-svgrepo-com.svg" class="LinkedInIcon" alt="linked" />
 			</div>
 		</a>
-		<a href="#" class="TwitterIconAn">
+		<a href="https://www.facebook.com/" class="TwitterIconAn">
 			<div class="TwittterIconContainer">
 				<img src="/img/icons/twitter-svgrepo-com.svg" class="TwitterIcon" alt="linked" />
 			</div>
 		</a>
-		<a href="#" class="GetHupIconAn">
+		<a href="https://www.facebook.com/" class="GetHupIconAn">
 			<div class="GetHuoIconContainer">
 				<img src="img/icons/github-svgrepo-com.svg" class="GetHUPIcon" alt="linked" />
 			</div>
@@ -66,7 +66,7 @@
 	.logo {
 		font-weight: 800;
 		letter-spacing: 3px;
-		font-family: Candara,serif;
+		font-family: Candara, serif;
 		display: flex;
 		font-size: 20px;
 	}
@@ -76,7 +76,7 @@
 	li a {
 		transition: all 1s;
 		color: Black;
-		font-family: Arial,serif;
+		font-family: Arial, serif;
 		font-size: 18px;
 		font-weight: 600;
 	}

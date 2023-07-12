@@ -1,11 +1,9 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 
-	let titlepar: string = '';
-	let datepar: string = '';
+	let titlepar = '';
+	let datepar = '';
 	let image: HTMLImageElement;
-
-	let title: string;
 
 	interface Joke {
 		img: string;
@@ -48,7 +46,7 @@
 s
 <div class="cols col1">
 	<div class="img-box">
-		<img src={image ? image.src : ''} alt="Joke Image" id="jokeimage" />
+		<img src={image ? image.src : ''} alt="" id="jokeimage" />
 	</div>
 	<p id="titlepar">{titlepar}</p>
 	<p id="datepar">{datepar}</p>
