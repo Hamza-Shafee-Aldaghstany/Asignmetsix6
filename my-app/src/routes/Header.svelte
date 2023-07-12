@@ -1,5 +1,5 @@
 <script>
-	import Navbar from "$lib/Navbar.svelte";
+	import Navbar from '$lib/Navbar.svelte';
 </script>
 
 <!--<script>-->
@@ -131,4 +131,4 @@
 <!--		color: var(&#45;&#45;color-theme-1);-->
 <!--	}-->
 <!--</style>-->
-<Navbar></Navbar>
+<Navbar />

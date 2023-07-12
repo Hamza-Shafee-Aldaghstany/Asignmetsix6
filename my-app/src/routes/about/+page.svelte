@@ -1,5 +1,5 @@
-<script>
-	import Footer from "$lib/Footer.svelte";
+<script lang="ts">
+	import Footer from '$lib/Footer.svelte';
 </script>
 
 <svelte:head>
@@ -28,4 +28,4 @@
 <!--		using it with JavaScript disabled!-->
 <!--	</p>-->
 <!--</div>-->
-<Footer></Footer>
+<Footer />
